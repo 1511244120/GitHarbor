@@ -4,22 +4,22 @@ GitHarboris a dynamic React application designed to streamline the process of di
 
 ## How to run the project
 
-Clone the repository to your local computer:
-
-<b>git clone https://github.com/1511244120/GitHarbor.git</b>
-
-Change to the project:
-
-<b>cd GitHarbor</b>
-
-Install the dependencies:
-
-<b>npm install</b>
-
-Start the project:
-
-<b>npm start</b>
-
+**Clone the repository to your local computer:**
+``` bash
+$ git clone https://github.com/1511244120/GitHarbor.git
+```
+**Change to the project:**
+``` bash
+$ cd GitHarbor
+```
+**Install the dependencies:**
+``` bash
+$ npm install
+```
+**Start the project:**
+``` bash
+$ npm start
+```
 Then you can try the project out, happy coding!
 
 <hr>
