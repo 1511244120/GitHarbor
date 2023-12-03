@@ -24,8 +24,8 @@ Then you can try the project out, happy coding!
 
 <hr>
 Some one notes about the design of the github search project:<br>
-- network requests are send using AXIOS
+- network requests are sent using AXIOS
 - in src_version1_githubserach folder, the React component communication is done by passing state with function props
 - in src folder, the React component communication is done PubSub React API, establish the Publish-Subscribe model
 
-**you can switch these 2 folders simply by changing the folder name that you would like to use to src and try them out, they both achieve the same functionality**
+**You can switch these 2 folders simply by changing the folder name that you would like to use to src and try them out, they both achieve the same functionality**
