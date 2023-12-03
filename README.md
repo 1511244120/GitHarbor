@@ -23,7 +23,8 @@ Start the project:
 Then you can try the project out, happy coding!
 
 <hr>
-Some one notes about the design of the github search project:<br>
+Some notes about the design of the GitHub search project:
+
 - network requests are sent using AXIOS
 - in src_version1_githubserach folder, the React component communication is done by passing state with function props
 - in src folder, the React component communication is done PubSub React API, establish the Publish-Subscribe model
